@@ -1,5 +1,5 @@
 # teamable
-This is an application for managing employees profiles
+This is an application for managing employee user profiles
 
 ### To run the tests execute
 
@@ -10,4 +10,4 @@ This is an application for managing employees profiles
     npm pack
 
 
-Application runs on port 3000    
+ Application run on port 3000
