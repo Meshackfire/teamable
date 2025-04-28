@@ -10,4 +10,4 @@ This is an application for managing employee user profiles
     npm pack
 
 
-Application to be run on port 3000    
+ Application run on port 3000
