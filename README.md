@@ -8,3 +8,6 @@ This is an application for managing employee user profiles
 ### To package the application, execute
 
     npm pack
+
+
+Application to be run on port 3000    
